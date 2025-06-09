@@ -1,4 +1,5 @@
-connect-azaccount -UseDeviceAuthentication
+
+#connect-azaccount -UseDeviceAuthentication
 
 $subscriptionid = "88a53b8a-b6bb-42d8-8729-3db903944983"
 $resourcegroupname = "rg-ocs-synapse"
